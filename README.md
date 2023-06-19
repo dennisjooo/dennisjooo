@@ -1,7 +1,9 @@
 ### Hi there 👋
 My name Dennis Jonathan. I've just completed my bachelor's degree majoring in Business Mathematics.
+
 I'm super passionate about Machine Learning 📊🤖.
-Willing to learn and collaborate 👯
+
+Willing to learn and collaborate on projects 👯
 
 <!--
 **dennisjooo/dennisjooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
