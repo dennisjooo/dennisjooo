@@ -1,7 +1,5 @@
 ### Hi there 👋
-My name Dennis Jonathan. I've just completed my bachelor's degree majoring in Business Mathematics.
-
-I'm interested in Data Science and Machine Learning 📊🤖.
+My name Dennis Jonathan. I'm super interested in Data Science and Machine Learning 📊🤖.
 
 <!--
 **dennisjooo/dennisjooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
