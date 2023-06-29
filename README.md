@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name Dennis Jonathan. I'm super interested in Data Science and Machine Learning 📊🤖.
+My name Dennis Jonathan. I'm super interested in data science and machine learning 📊🤖.
 
 <!--
 **dennisjooo/dennisjooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
