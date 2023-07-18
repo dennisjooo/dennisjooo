@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name Dennis Jonathan. I'm super interested in data science and machine learning 📊🤖.
 
-Check out my profile [here!](https://dennisjoo.github.io)
+Check out my profile [here](https://dennisjoo.github.io)!
 
 If you need me, you can reach me on [LinkedIn](https://www.linkedin.com/in/dennisjooo/).
 
