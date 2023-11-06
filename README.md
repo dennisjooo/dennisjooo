@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name Dennis Jonathan. I'm super interested in data science and machine learning 📊🤖.
 
-Check out my profile [here](https://dennisjooo.github.io)!
+I made a not so bad profile page, check it out [here](https://dennisjooo.github.io)!
 
 <!--
 **dennisjooo/dennisjooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
