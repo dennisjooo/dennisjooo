@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name Dennis Jonathan. I'm super interested in data science and machine learning 📊🤖.
+I'm Dennis. Interested in AI & ML.
 
 I made a not so bad profile page, check it out [here](https://dennisjooo.github.io)!
 
