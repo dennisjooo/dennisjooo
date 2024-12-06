@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Dennis. Interested in AI & ML.
 
-For more about me, click [here](https://dennisjooo.github.io)!
+Still curious? click [here](https://dennisjooo.github.io)!
 
 <!--
 **dennisjooo/dennisjooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
